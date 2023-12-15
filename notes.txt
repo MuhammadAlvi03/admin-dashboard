@@ -4,9 +4,11 @@ Gather assets
 Choose a color palette
 Fill out missing HTML assets and content
 Style layouts in header, sidebar, and main sections
+- Use transform:scale on hover for elements
 
 Doing:
-Fill out HTML for main section
+Main grid layout
+
 
 Ideas:
 Use transform:scale on hover for elements
