@@ -1,14 +1,12 @@
 To do:
-Make subgrids for layout in header, sidebar, and main sections
 Gather assets
-Choose a color palette
 Fill out missing HTML assets and content
 Style layouts in header, sidebar, and main sections
 - Use transform:scale on hover for elements
 
 Doing:
-Main grid layout
-
+See handwritten notes
+Styling sidebar and project-items
 
 Ideas:
 Use transform:scale on hover for elements
