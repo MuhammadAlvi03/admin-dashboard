@@ -1,14 +1,3 @@
-To do:
-Gather assets
-Fill out missing HTML assets and content
-Style layouts in header, sidebar, and main sections
-- Use transform:scale on hover for elements
-
-Doing:
-See handwritten notes
-Styling sidebar and project-items
-
-Ideas:
-Use transform:scale on hover for elements
-Make main sections grid items, and flex parents
-Create divs for content inside main sections
+Improvements:
+Semantic HTML, very important for accessiblity
+Responsive design
